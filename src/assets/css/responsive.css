@@ -1,0 +1,102 @@
+@media only screen and (max-width: 990px) {
+    .navbar.static-top {
+        background-color: white;
+    }
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .navbar-brand {
+        width: 50%;
+    }
+    .navbar.static-top {
+        background-color: white;
+    }
+    .navbar-collapse.show {
+        background-color: white;
+    }
+
+    /* common for all pages */
+    .inner-container {
+        width: 315px !important;
+        margin-top: 0 !important;
+    }    
+
+    /* Home Page : Reviews Section */
+    img.float-left.rounded-circle.z-depth-2.review-img{
+        float: none !important;
+    }
+    .message.pl-5.review-msg {
+        padding: 0 !important;
+        text-align: center;
+    }
+    .bottom-border-line {
+        width: 10% !important;
+    }
+    .filter-button {
+        width: 100% !important;
+    }
+
+    /* User : coachlist page */
+    .coach-filter-input{
+        width: 100% !important;
+    }
+    .ratting-class {
+        float: none !important;
+    }
+    .ratting-arrow {
+        margin-top: 35px;
+    }
+
+    /* User : detail page image */
+    .detail-page-img{
+        margin: auto;
+        width: 65%;
+    }
+    .booksession-title,.user-plan-title,.cards-title {
+        margin-top: 30px;
+        font-size: 1.25rem;
+        padding-right: 0 !important;
+    }
+    /* User : Myplan */ 
+    .plan-name {
+        text-align: center;
+        padding: 0;
+    }
+
+    /* User cards */
+    .user-card-inner-container {
+        padding: 1rem !important;
+    }
+    .cards-border{
+        margin: 0 !important;
+    }
+    .single-card {
+        padding: 1rem !important;
+    }
+
+
+
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .7rem;
+        padding-left: .7rem;
+    }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

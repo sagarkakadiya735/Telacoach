@@ -1,0 +1,137 @@
+.bg-img {
+    /* background-image: url(../img/ic_bg.png); */
+    background-color: #F4F6FB;
+}
+.requests-bg-light-grew {
+    background-color: #ebebeb;
+}
+.avatar {
+    vertical-align: middle;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 2px solid #4daa22;
+}
+.text-requests {
+background-color: #f4f6fb;
+border-radius: 8px;
+}
+.on-at-title {
+    color: #4daa22;
+    font-weight: 600;
+    font-size: 18px;
+}
+.on-at-date {
+    color: #bcbcbd;
+    font-size: 14px;
+}
+.border-radius-requests {
+    border-radius: 10px;
+}
+.request-details-msg {
+    margin-left: 13%;
+}
+.request-details-msg .card-title {
+    margin-bottom: 0rem !important;
+}
+.border-bottom-left-radius {
+    border-bottom-left-radius: 12px;
+}
+.border-bottom-right-radius {
+    border-bottom-right-radius: 12px;
+}
+.form-control.text-location {
+    background: #fff url(../img/ic_video_connect_location.png) no-repeat left .75rem center/20px 25px;
+    padding: .375rem 3.30rem;
+}
+.form-control.text-date {
+    background: #fff url(../img/ic_video_connect_calendar.png) no-repeat left .75rem center/20px 20px;
+    padding: .375rem 3.30rem;
+}
+.form-control.text-time {
+    background: #fff url(../img/ic_video_connect_clock.png) no-repeat left .75rem center/20px 20px;
+    padding: .375rem 3.30rem;
+}
+.form-control.text-period {
+    background: #fff url(../img/ic_video_connect_appointment.png) no-repeat left .75rem center/20px 20px;
+    padding: .375rem 3.30rem;
+}
+.rounded-circle-request-detail {
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #4daa22;
+}
+.card-subtitle.text-muted {
+    color: #cbcbcb !important;
+    font-size: 13px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #369f04 !important;
+    background-color: #fff !important;
+    border-color: #f7f7f7 #ccc #369f04 #f7f7f7 !important;
+}
+.nav-tabs .nav-link {
+    border: 0px solid;
+    border-bottom: 2px solid transparent;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+}
+span.on-at-title {
+    font-size: 15px;
+}
+.btn-update-bank {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.border-rounde {
+    border-radius: 12px;
+}
+button:focus {
+    outline: 0px dotted;
+}
+.profile-setting h6 {
+    margin-top: 0rem !important;
+    margin-bottom: 0rem !important;
+    color: #369f04;
+}
+.profile-setting .card-body {
+    border: 2px solid #369f04;
+    border-radius: 10px;
+}
+.profile-setting .w-10 {
+    width: 8px;
+}
+.profile-setting .bg-light-grew {
+    background-color: #f4f6fb;
+}
+.bank-account {
+    background: url(../img/ic_card_bg.png) no-repeat;
+    border-radius: 10px;
+}
+.bank-account {
+    background: url(../img/ic_card_bg.png) no-repeat;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.fa-pen-trash {
+    font-size: 16px;
+    padding-top: .25rem !important;
+}
+.cursor-point {
+    cursor: pointer;
+}
+.profile-image {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+    border-radius: 10px;
+    /* margin: 3% 0% !important; */
+}
+.social-img {
+    margin-top: 8px;
+    width: 20px;
+    margin-left: -5px;
+}
